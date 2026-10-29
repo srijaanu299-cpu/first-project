@@ -1,4 +1,4 @@
-# my GitHUb Learning journey
+# my GitHub Learning journey
 Hello! I am Leaning GitHub and Full stack development
 
 ## My Goal
